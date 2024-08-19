@@ -1,0 +1,4 @@
+include src/scaffold/templates/*/Dockerfile
+include src/scaffold/templates/*/*
+include README.md
+include LICENSE
